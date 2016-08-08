@@ -1,0 +1,29 @@
+_repo: California-Sketches-New-Series_12564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzgerald, O. P. (Oscar Penn)
+    alias: Fitzgerald, Oscar Penn
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '4429'
+    url: http://www.gutenberg.org/2009/agents/4429
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnic groups -- California'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Religion and ethics -- California'
+- !lcc 'F850.5'
+- !lcsh 'California -- Social life and customs'
+- !lcsh 'Law -- Political aspects -- California'
+- GITenberg
+title: California Sketches, New Series
+url: http://www.gutenberg.org/ebooks/12564
